@@ -10,5 +10,4 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizShik&repo=JS30)](https://github.com/AzizShik/JS30)
 
