@@ -7,3 +7,8 @@
 05 FlexPanelGallery https://azizshik.github.io/JS30/05FlexPanelGallery/index.html <br>
 06 TypeAhead https://azizshik.github.io/JS30/06TypeAhead/index.html <br>
 07 ArrayCardioDay2 https://azizshik.github.io/JS30/07ArrayCardioDay2/index.html <br>
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizShik&repo=JS30)](https://github.com/AzizShik/JS30)
+
