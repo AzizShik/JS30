@@ -9,3 +9,4 @@
 07 ArrayCardioDay2 https://azizshik.github.io/JS30/07ArrayCardioDay2/index.html <br>
 08 FunHTML5Canvas https://azizshik.github.io/JS30/08FunHTML5Canvas/index.html <br>
 09 DevTools https://azizshik.github.io/JS30/09DevToolsDomination/index.html <br>
+10 HoldShiftandCheckCheckboxes https://azizshik.github.io/JS30/10HoldShiftandCheckCheckboxes/index.html <br>
