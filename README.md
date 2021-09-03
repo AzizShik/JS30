@@ -10,3 +10,6 @@
 08 FunHTML5Canvas https://azizshik.github.io/JS30/08FunHTML5Canvas/index.html <br>
 09 DevTools https://azizshik.github.io/JS30/09DevToolsDomination/index.html <br>
 10 HoldShiftandCheckCheckboxes https://azizshik.github.io/JS30/10HoldShiftandCheckCheckboxes/index.html <br>
+11 CustomVideoPlayer https://azizshik.github.io/JS30/11CustomVideoPlayer/index.html <br>
+12 KeySequenceDetection https://azizshik.github.io/JS30/12KeySequenceDetection/index.html <br>
+13 SlideinonScroll https://azizshik.github.io/JS30/13SlideinonScroll/index.html <br>
