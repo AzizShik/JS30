@@ -13,3 +13,4 @@
 11 CustomVideoPlayer https://azizshik.github.io/JS30/11CustomVideoPlayer/index.html <br>
 12 KeySequenceDetection https://azizshik.github.io/JS30/12KeySequenceDetection/index.html <br>
 13 SlideinonScroll https://azizshik.github.io/JS30/13SlideinonScroll/index.html <br>
+14 JavaScriptReferencesVSCopying https://azizshik.github.io/JS30/JavaScriptReferencesVSCopying/index.html <br>
