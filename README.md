@@ -13,4 +13,6 @@
 11 CustomVideoPlayer https://azizshik.github.io/JS30/11CustomVideoPlayer/index.html <br>
 12 KeySequenceDetection https://azizshik.github.io/JS30/12KeySequenceDetection/index.html <br>
 13 SlideinonScroll https://azizshik.github.io/JS30/13SlideinonScroll/index.html <br>
-14 JavaScriptReferencesVSCopying https://azizshik.github.io/JS30/JavaScriptReferencesVSCopying/index.html <br>
+14 JavaScriptReferencesVSCopying https://azizshik.github.io/JS30/14JavaScriptReferencesVSCopying/index.html <br>
+15 LocalStorage https://azizshik.github.io/JS30/15LocalStorage/index.html <br>
+16 MouseMoveShadow https://azizshik.github.io/JS30/16MouseMoveShadow/index.html <br>
