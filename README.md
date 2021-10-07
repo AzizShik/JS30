@@ -16,3 +16,7 @@
 14 JavaScriptReferencesVSCopying https://azizshik.github.io/JS30/14JavaScriptReferencesVSCopying/index.html <br>
 15 LocalStorage https://azizshik.github.io/JS30/15LocalStorage/index.html <br>
 16 MouseMoveShadow https://azizshik.github.io/JS30/16MouseMoveShadow/index.html <br>
+17 MouseMoveShadow https://azizshik.github.io/JS30/17SortWithoutArticles/index.html <br>
+18 MouseMoveShadow https://azizshik.github.io/JS30/18AddingUpTimeswithReduce/index.html <br>
+19 MouseMoveShadow https://azizshik.github.io/JS30/19WebcamFun/index.html <br>
+20 MouseMoveShadow https://azizshik.github.io/JS30/20SpeechDetection/index.html <br>
